@@ -1,5 +1,5 @@
 _repo: The-Battle-of-the-Strong-A-Romance-of-Two-Kingdoms-Volume-6_6235
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Anglo-French War, 1793-1802 -- Fiction'
 - !lcsh 'Channel Islands -- Fiction'
+- GITenberg
 title: 'The Battle of the Strong: A Romance of Two Kingdoms — Volume 6'
 url: http://www.gutenberg.org/ebooks/6235
